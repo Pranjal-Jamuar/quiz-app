@@ -27,7 +27,6 @@ const Home = ({name, setName, fetchQuestions}) => {
   }
 
 
-
   return (
     <div className="content">
       <div className="settings">
