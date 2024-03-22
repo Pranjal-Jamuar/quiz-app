@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className="header">
       <Link to="/" className="title">
-        Intuitive Quiz Hub
+        BrainBuster Quiz Challenge
       </Link>
       <hr className="divider" />
     </div>
